@@ -3,7 +3,7 @@ package main
 // fmt module needed for Println
 import "fmt"
 
-// main is the primary function
+// Simple "Hello World" program using Println
 func main() {
 	        fmt.Println("Hello, World")
 }
